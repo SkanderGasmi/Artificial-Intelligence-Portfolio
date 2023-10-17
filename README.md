@@ -13,9 +13,9 @@ This central repository serves as a gateway to various AI-related projects and s
 
 ### [AI for Medicine](https://github.com/SkanderGasmi/AI-For-Medicine)
 
-### (Computer Vision)[https://github.com/SkanderGasmi/Advanced-Computer-Vision-with-TensorFlow]
+### [Computer Vision](https://github.com/SkanderGasmi/Advanced-Computer-Vision-with-TensorFlow)
 
-### (Generative Deep Learning)[https://github.com/SkanderGasmi/Generative-Deep-Learning-with-TensorFlow]
+### [Generative Deep Learning](https://github.com/SkanderGasmi/Generative-Deep-Learning-with-TensorFlow)
 
 ### [Reinforcement learning](https://github.com/SkanderGasmi/reinforcement-learning)
 
