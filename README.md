@@ -9,13 +9,13 @@ This central repository serves as a gateway to various AI-related projects and s
 
 ### [deep learning portfolio](https://github.com/SkanderGasmi/deep-learning-portfolio)
 
-### [Natural Language Processing (NLP)] (https://github.com/SkanderGasmi/NLP-portfolio)
+### [Natural Language Processing (NLP)](https://github.com/SkanderGasmi/NLP-portfolio)
 
 ### [Computer vision]
 
 ### [AI for Medicine](https://github.com/SkanderGasmi/AI-For-Medicine)
 
-### [Reinforcement learning] (https://github.com/SkanderGasmi/reinforcement-learning)
+### [Reinforcement learning](https://github.com/SkanderGasmi/reinforcement-learning)
 
 ### [Recommender systems](https://github.com/SkanderGasmi/recommender-systems)
 
